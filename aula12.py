@@ -1,12 +1,12 @@
-nome = 'Luiz Otávio'
-altura = 1.80
-peso = 95
+nome = 'Lucas de Eiroz Rodrigues'
+altura = 1.72
+peso = 79
 imc = peso / altura ** 2
 
 print(nome, 'tem', altura, 'de altura,',)
 print('pesa', peso, 'quilos e seu imc é',)
 print(imc)
 
-# Luiz Otávio tem 1.80 de altura,
-# pesa 95 quilos e seu IMC é
-# 29.320987654320987
+# Lucas de Eiroz tem 1.72 de altura,
+# pesa 79 quilos e seu IMC é
+# 26.703623580313685
