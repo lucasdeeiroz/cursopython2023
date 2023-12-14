@@ -14,4 +14,4 @@ print(linha_3)
 
 # Lucas de Eiroz Rodrigues tem 1.72 de altura,
 # pesa 79 quilos e seu IMC é
-# 26.703623580313685
+# 26.70
